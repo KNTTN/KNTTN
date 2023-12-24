@@ -1,6 +1,15 @@
-# Welcome to GitHub Desktop!
+# Hello, I'm KNTTN!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Learn about me!
+===
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-KNTTN
+1. Hobbies
+    * Unicycling
+    * Math
+    * Basketball
+2. Who am I?
+    * HS student
+    * Tall
+3. My languages
+    * Python
+    * JS
